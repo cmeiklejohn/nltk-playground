@@ -23,4 +23,4 @@ echo "Compute Go corpus..."
 python go-corpus-build.py
 
 echo "Compute C corpus..."
-python go-corpus-build.py
+python c-corpus-build.py
